@@ -1,6 +1,6 @@
 {
     "$schema": "https://schema.freqtrade.io/schema.json",
-    "max_open_trades": 3,
+    "max_open_trades": 6,
     "stake_currency": "USDT",
     "stake_amount": 100,
     "tradable_balance_ratio": 0.99,
@@ -22,7 +22,18 @@
             "XRP/USDT",
             "DOGE/USDT",
             "ADA/USDT",
-            "BNB/USDT"
+            "BNB/USDT",
+            "LINK/USDT",
+            "DOT/USDT",
+            "AVAX/USDT",
+            "LTC/USDT",
+            "ATOM/USDT",
+            "NEAR/USDT",
+            "FIL/USDT",
+            "OP/USDT",
+            "ARB/USDT",
+            "APT/USDT",
+            "INJ/USDT"
         ],
         "pair_blacklist": []
     },
