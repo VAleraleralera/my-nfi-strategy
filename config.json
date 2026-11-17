@@ -10,7 +10,7 @@
     "timeframe": "5m",
     "trading_mode": "spot",
     "exchange": {
-        "name": "binance",
+        "name": "okx",
         "key": "",
         "secret": "",
         "ccxt_config": {},
