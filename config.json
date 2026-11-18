@@ -38,8 +38,6 @@
             "SUI/USDT",
             "SEI/USDT",
             "TIA/USDT",
-            "RUNE/USDT",
-            "FTM/USDT",
             "ALGO/USDT",
             "GALA/USDT",
             "SAND/USDT",
@@ -49,22 +47,18 @@
             "ENJ/USDT",
             "CRV/USDT",
             "COMP/USDT",
-            "MKR/USDT",
             "SNX/USDT",
             "YFI/USDT",
-            "BAL/USDT",
             "ZEC/USDT",
             "DASH/USDT",
             "ETC/USDT",
             "XLM/USDT",
             "TRX/USDT",
-            "VET/USDT",
             "ICP/USDT",
             "THETA/USDT",
             "EGLD/USDT",
             "FLOW/USDT",
             "XTZ/USDT",
-            "EOS/USDT",
             "IOTA/USDT",
             "NEO/USDT"
         ],
@@ -94,6 +88,7 @@
     "initial_state": "running",
     "force_entry_enable": false,
     "internals": {
-        "process_throttle_secs": 5
+        "process_throttle_secs": 5,
+        "additional_dataframes": ["5m"]
     }
 }
