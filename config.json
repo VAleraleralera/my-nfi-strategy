@@ -7,7 +7,7 @@
     "fiat_display_currency": "USD",
     "dry_run": true,
     "dry_run_wallet": 1000,
-    "timeframe": "15m",
+    "timeframe": "5m",
     "trading_mode": "spot",
     "exchange": {
         "name": "okx",
